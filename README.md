@@ -1,6 +1,6 @@
 # Fridge-It: A Fridge Tracking App
 
-![fridge1](https://user-images.githubusercontent.com/72388056/153027723-4a30b8a1-819a-4f62-912e-96c94e4d2a01.jpg)
+  `![fridge1](https://user-images.githubusercontent.com/72388056/153027723-4a30b8a1-819a-4f62-912e-96c94e4d2a01.jpg)
   ![fridge2](https://user-images.githubusercontent.com/72388056/153027766-31a048e7-2fe9-4965-8063-d5edbd8428aa.jpg)
   ![fridge3](https://user-images.githubusercontent.com/72388056/153027779-7d367779-5ae9-48bf-8e67-9bae583463ad.jpg)
 
